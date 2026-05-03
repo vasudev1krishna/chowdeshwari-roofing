@@ -4,9 +4,8 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 255, 255, 255;
-  --background-end-rgb: 255, 255, 255;
+    background-color: #ffffff;
+  color: #0f172a;
 }
 @theme {
   /* You can define custom colors here if needed */
