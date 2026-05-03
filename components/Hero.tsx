@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     // Inside components/Hero.tsx
 <section className="relative bg-white py-20 px-6 overflow-hidden">
-  <div className="absolute inset-0 z-0"> <img src="/bgroof.avif" alt="Chowdeshwari Roofing Devaanahalli" className="w-full h-full object-cover" />
+  <div className="absolute inset-0 z-0"> <img src="/bgroof.avif" alt="Chowdeshwari Roofing Devanahalli" className="w-full h-full object-cover" />
   <div className="container mx-auto grid md:grid-cols-2 gap-12 items-center">
     <div className="relative z-10 text-left">
       <h1 className="text-5xl md:text-7xl font-black text-slate-900 mb-6 leading-tight">
@@ -20,7 +20,7 @@ export default function Hero() {
       </div>
     </div>
     <div className="relative h-[400px] rounded-3xl overflow-hidden shadow-2xl">
-      <img src="/roofing-hero.jpg" alt="Roofing" className="w-full h-full object-cover" />
+      <img src="/bgroof.avif" alt="Roofing" className="w-full h-full object-cover" />
     </div>
   </div>
 </section>
